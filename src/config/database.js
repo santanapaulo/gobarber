@@ -1,9 +1,9 @@
 module.exports = {
   dialect: 'postgres',
-  host: '127.0.0.1',
-  username: 'docker',
-  password: 'docker',
-  database: 'gonodemodulo2',
+  host: 'stampy.db.elephantsql.com',
+  username: 'gerbndoj',
+  password: 'A3twHy5cYTFavTthtFz_f4oQg4olI3tc',
+  database: 'gerbndoj',
   operatorAliases: false,
   define: {
     timestamps: true,
